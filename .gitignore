@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# VS Code settings
+.vscode/
+
+# Mac OS files
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environment / secret files
+.env
+*.env
+
+# Log files
+*.log
+
+# Streamlit cache
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp
