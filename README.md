@@ -34,6 +34,7 @@ career_connector.db
 JobData.csv
 main.py
 .gitignore
+requirements.txt
 
 - Installation & Setup :
 1️) Clone the Repository like the follows:
